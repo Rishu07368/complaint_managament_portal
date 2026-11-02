@@ -1,0 +1,6 @@
+target/
+application.properties
+dist/ComplaintPortal/application.properties
+dist/ComplaintPortal-*/application.properties
+.idea/
+*.iml

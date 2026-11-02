@@ -1,0 +1,8 @@
+# Copy to application.properties, or set the corresponding APP_* environment variables.
+db.url=jdbc:mysql://localhost:3306/complaint_portal?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+db.username=root
+db.password=
+db.name=complaint_portal
+db.initialize=true
+admin.email=admin@complaints.local
+admin.password=Admin@123
